@@ -1,0 +1,9 @@
+SUPPORTED_EXTENSIONS = [
+    ".txt"
+]
+
+DEFAULT_ENCODING = "utf-8"
+
+LOG_FILE_NAME = "logs/app.log"
+
+TOP_RESULTS_LIMIT = 5

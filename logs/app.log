@@ -1,0 +1,85 @@
+{"asctime": "2026-05-31 00:36:27,768", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "ai.txt"}
+{"asctime": "2026-05-31 00:36:27,768", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "ai.txt", "chunks": 1}
+{"asctime": "2026-05-31 00:36:27,778", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "microservices.txt"}
+{"asctime": "2026-05-31 00:36:27,779", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "microservices.txt", "chunks": 1}
+{"asctime": "2026-05-31 00:36:27,789", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "python.txt"}
+{"asctime": "2026-05-31 00:36:27,790", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "python.txt", "chunks": 1}
+{"asctime": "2026-05-31 00:36:27,791", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed"}
+{"asctime": "2026-05-31 00:36:51,261", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "ai.txt"}
+{"asctime": "2026-05-31 00:36:51,261", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "ai.txt", "chunks": 1}
+{"asctime": "2026-05-31 00:36:51,262", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "microservices.txt"}
+{"asctime": "2026-05-31 00:36:51,263", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "microservices.txt", "chunks": 1}
+{"asctime": "2026-05-31 00:36:51,263", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "python.txt"}
+{"asctime": "2026-05-31 00:36:51,264", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "python.txt", "chunks": 1}
+{"asctime": "2026-05-31 00:36:51,264", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed"}
+{"asctime": "2026-05-31 00:37:39,888", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "ai.txt"}
+{"asctime": "2026-05-31 00:37:39,889", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "ai.txt", "chunks": 1}
+{"asctime": "2026-05-31 00:37:39,890", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "microservices.txt"}
+{"asctime": "2026-05-31 00:37:39,891", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "microservices.txt", "chunks": 1}
+{"asctime": "2026-05-31 00:37:39,892", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "python.txt"}
+{"asctime": "2026-05-31 00:37:39,892", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "python.txt", "chunks": 1}
+{"asctime": "2026-05-31 00:37:39,893", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed"}
+{"asctime": "2026-05-31 00:37:47,040", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "ai.txt"}
+{"asctime": "2026-05-31 00:37:47,041", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "ai.txt", "chunks": 1}
+{"asctime": "2026-05-31 00:37:47,041", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "microservices.txt"}
+{"asctime": "2026-05-31 00:37:47,043", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "microservices.txt", "chunks": 1}
+{"asctime": "2026-05-31 00:37:47,044", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "python.txt"}
+{"asctime": "2026-05-31 00:37:47,044", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "python.txt", "chunks": 1}
+{"asctime": "2026-05-31 00:37:47,045", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed"}
+{"asctime": "2026-05-31 00:37:53,522", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "ai.txt"}
+{"asctime": "2026-05-31 00:37:53,522", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "ai.txt", "chunks": 1}
+{"asctime": "2026-05-31 00:37:53,524", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "microservices.txt"}
+{"asctime": "2026-05-31 00:37:53,524", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "microservices.txt", "chunks": 1}
+{"asctime": "2026-05-31 00:37:53,524", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "python.txt"}
+{"asctime": "2026-05-31 00:37:53,526", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "python.txt", "chunks": 1}
+{"asctime": "2026-05-31 00:37:53,526", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed"}
+{"asctime": "2026-05-31 00:38:00,879", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "ai.txt"}
+{"asctime": "2026-05-31 00:38:00,881", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "ai.txt", "chunks": 1}
+{"asctime": "2026-05-31 00:38:00,882", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "microservices.txt"}
+{"asctime": "2026-05-31 00:38:00,883", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "microservices.txt", "chunks": 1}
+{"asctime": "2026-05-31 00:38:00,891", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "python.txt"}
+{"asctime": "2026-05-31 00:38:00,894", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "python.txt", "chunks": 1}
+{"asctime": "2026-05-31 00:38:00,895", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed"}
+{"asctime": "2026-05-31 00:38:07,603", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "ai.txt"}
+{"asctime": "2026-05-31 00:38:07,604", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "ai.txt", "chunks": 1}
+{"asctime": "2026-05-31 00:38:07,605", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "microservices.txt"}
+{"asctime": "2026-05-31 00:38:07,606", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "microservices.txt", "chunks": 1}
+{"asctime": "2026-05-31 00:38:07,607", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "python.txt"}
+{"asctime": "2026-05-31 00:38:07,607", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "python.txt", "chunks": 1}
+{"asctime": "2026-05-31 00:38:07,608", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed"}
+{"asctime": "2026-05-31 00:38:14,325", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "ai.txt"}
+{"asctime": "2026-05-31 00:38:14,326", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "ai.txt", "chunks": 1}
+{"asctime": "2026-05-31 00:38:14,326", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "microservices.txt"}
+{"asctime": "2026-05-31 00:38:14,327", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "microservices.txt", "chunks": 1}
+{"asctime": "2026-05-31 00:38:14,328", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "python.txt"}
+{"asctime": "2026-05-31 00:38:14,328", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "python.txt", "chunks": 1}
+{"asctime": "2026-05-31 00:38:14,329", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed"}
+{"asctime": "2026-05-31 00:38:23,531", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "ai.txt"}
+{"asctime": "2026-05-31 00:38:23,533", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "ai.txt", "chunks": 1}
+{"asctime": "2026-05-31 00:38:23,534", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "microservices.txt"}
+{"asctime": "2026-05-31 00:38:23,534", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "microservices.txt", "chunks": 1}
+{"asctime": "2026-05-31 00:38:23,535", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "python.txt"}
+{"asctime": "2026-05-31 00:38:23,536", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "python.txt", "chunks": 1}
+{"asctime": "2026-05-31 00:38:23,536", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed"}
+{"asctime": "2026-05-31 00:38:30,394", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "ai.txt"}
+{"asctime": "2026-05-31 00:38:30,395", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "ai.txt", "chunks": 1}
+{"asctime": "2026-05-31 00:38:30,395", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "microservices.txt"}
+{"asctime": "2026-05-31 00:38:30,396", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "microservices.txt", "chunks": 1}
+{"asctime": "2026-05-31 00:38:30,396", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "python.txt"}
+{"asctime": "2026-05-31 00:38:30,398", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "python.txt", "chunks": 1}
+{"asctime": "2026-05-31 00:38:30,398", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed"}
+{"asctime": "2026-05-31 00:38:48,370", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "ai.txt"}
+{"asctime": "2026-05-31 00:38:48,370", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "ai.txt", "chunks": 1}
+{"asctime": "2026-05-31 00:38:48,371", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "microservices.txt"}
+{"asctime": "2026-05-31 00:38:48,371", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "microservices.txt", "chunks": 1}
+{"asctime": "2026-05-31 00:38:48,372", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "python.txt"}
+{"asctime": "2026-05-31 00:38:48,372", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "python.txt", "chunks": 1}
+{"asctime": "2026-05-31 00:38:48,373", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed"}
+{"asctime": "2026-05-31 00:39:40,777", "levelname": "INFO", "name": "src.services.keyword_retriever", "message": "Search completed", "query": "python", "results": 1}
+{"asctime": "2026-05-31 00:42:52,917", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "sample.txt", "chunks": 3}
+{"asctime": "2026-05-31 00:42:52,930", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "temp.txt"}
+{"asctime": "2026-05-31 00:42:52,943", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "test_doc.txt"}
+{"asctime": "2026-05-31 00:42:52,944", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "test_doc.txt", "chunks": 1}
+{"asctime": "2026-05-31 00:42:52,944", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed"}
+{"asctime": "2026-05-31 00:42:52,945", "levelname": "INFO", "name": "src.services.keyword_retriever", "message": "Search completed", "query": "python", "results": 1}
+{"asctime": "2026-05-31 00:42:52,952", "levelname": "INFO", "name": "src.services.keyword_retriever", "message": "Search completed", "query": "python backend", "results": 1}

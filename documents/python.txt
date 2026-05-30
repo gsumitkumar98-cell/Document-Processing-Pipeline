@@ -1,0 +1,5 @@
+Python is widely used for backend development.
+
+Python is popular because of its simplicity.
+
+Many REST APIs are built using Python.

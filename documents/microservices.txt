@@ -1,0 +1,5 @@
+Microservices improve scalability.
+
+Independent deployments reduce risk.
+
+Modern cloud applications often use microservices.
