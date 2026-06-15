@@ -83,3 +83,363 @@
 {"asctime": "2026-05-31 00:42:52,944", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed"}
 {"asctime": "2026-05-31 00:42:52,945", "levelname": "INFO", "name": "src.services.keyword_retriever", "message": "Search completed", "query": "python", "results": 1}
 {"asctime": "2026-05-31 00:42:52,952", "levelname": "INFO", "name": "src.services.keyword_retriever", "message": "Search completed", "query": "python backend", "results": 1}
+{"asctime": "2026-06-10 21:02:29,394", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "ai.txt"}
+{"asctime": "2026-06-10 21:02:29,395", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "ai.txt", "chunks": 1}
+{"asctime": "2026-06-10 21:02:29,405", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "microservices.txt"}
+{"asctime": "2026-06-10 21:02:29,406", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "microservices.txt", "chunks": 1}
+{"asctime": "2026-06-10 21:02:29,414", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "python.txt"}
+{"asctime": "2026-06-10 21:02:29,416", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "python.txt", "chunks": 1}
+{"asctime": "2026-06-10 21:02:29,417", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed"}
+{"asctime": "2026-06-10 21:03:05,463", "levelname": "INFO", "name": "src.services.keyword_retriever", "message": "Search completed", "query": "python", "results": 1}
+{"asctime": "2026-06-15 23:27:09,678", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "ai.txt"}
+{"asctime": "2026-06-15 23:27:09,680", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "ai.txt", "chunks": 1}
+{"asctime": "2026-06-15 23:27:09,690", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "microservices.txt"}
+{"asctime": "2026-06-15 23:27:09,692", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "microservices.txt", "chunks": 1}
+{"asctime": "2026-06-15 23:27:09,701", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "python.txt"}
+{"asctime": "2026-06-15 23:27:09,702", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "python.txt", "chunks": 1}
+{"asctime": "2026-06-15 23:27:09,703", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed"}
+{"asctime": "2026-06-15 23:27:17,679", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "ai.txt"}
+{"asctime": "2026-06-15 23:27:17,680", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "ai.txt", "chunks": 1}
+{"asctime": "2026-06-15 23:27:17,680", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "microservices.txt"}
+{"asctime": "2026-06-15 23:27:17,738", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "microservices.txt", "chunks": 1}
+{"asctime": "2026-06-15 23:27:17,739", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "python.txt"}
+{"asctime": "2026-06-15 23:27:17,740", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "python.txt", "chunks": 1}
+{"asctime": "2026-06-15 23:27:17,740", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed"}
+{"asctime": "2026-06-15 23:33:34,517", "levelname": "INFO", "name": "src.services.keyword_retriever", "message": "Search completed", "query": "python", "results": 1}
+{"asctime": "2026-06-15 23:39:33,837", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "ai.txt"}
+{"asctime": "2026-06-15 23:39:33,837", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "ai.txt", "chunks": 1}
+{"asctime": "2026-06-15 23:39:33,839", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "microservices.txt"}
+{"asctime": "2026-06-15 23:39:33,840", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "microservices.txt", "chunks": 1}
+{"asctime": "2026-06-15 23:39:33,841", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "python.txt"}
+{"asctime": "2026-06-15 23:39:33,841", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "python.txt", "chunks": 1}
+{"asctime": "2026-06-15 23:39:33,842", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed"}
+{"asctime": "2026-06-15 23:40:08,961", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "ai.txt"}
+{"asctime": "2026-06-15 23:40:08,961", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "ai.txt", "chunks": 1}
+{"asctime": "2026-06-15 23:40:08,962", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "microservices.txt"}
+{"asctime": "2026-06-15 23:40:08,962", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "microservices.txt", "chunks": 1}
+{"asctime": "2026-06-15 23:40:08,963", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "python.txt"}
+{"asctime": "2026-06-15 23:40:08,963", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "python.txt", "chunks": 1}
+{"asctime": "2026-06-15 23:40:08,963", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed"}
+{"asctime": "2026-06-15 23:40:14,035", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "ai.txt"}
+{"asctime": "2026-06-15 23:40:14,036", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "ai.txt", "chunks": 1}
+{"asctime": "2026-06-15 23:40:14,038", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "microservices.txt"}
+{"asctime": "2026-06-15 23:40:14,038", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "microservices.txt", "chunks": 1}
+{"asctime": "2026-06-15 23:40:14,039", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "python.txt"}
+{"asctime": "2026-06-15 23:40:14,040", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "python.txt", "chunks": 1}
+{"asctime": "2026-06-15 23:40:14,148", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed"}
+{"asctime": "2026-06-15 23:45:08,683", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "ai.txt"}
+{"asctime": "2026-06-15 23:45:08,683", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "ai.txt", "chunks": 1}
+{"asctime": "2026-06-15 23:45:08,684", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "microservices.txt"}
+{"asctime": "2026-06-15 23:45:08,685", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "microservices.txt", "chunks": 1}
+{"asctime": "2026-06-15 23:45:08,685", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "python.txt"}
+{"asctime": "2026-06-15 23:45:08,687", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "python.txt", "chunks": 1}
+{"asctime": "2026-06-15 23:45:08,688", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed"}
+{"asctime": "2026-06-15 23:45:44,355", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "ai.txt"}
+{"asctime": "2026-06-15 23:45:44,356", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "ai.txt", "chunks": 1}
+{"asctime": "2026-06-15 23:45:44,357", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "microservices.txt"}
+{"asctime": "2026-06-15 23:45:44,357", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "microservices.txt", "chunks": 1}
+{"asctime": "2026-06-15 23:45:44,358", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "python.txt"}
+{"asctime": "2026-06-15 23:45:44,358", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "python.txt", "chunks": 1}
+{"asctime": "2026-06-15 23:45:44,360", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed"}
+{"asctime": "2026-06-15 23:46:00,714", "levelname": "INFO", "name": "src.services.keyword_retriever", "message": "Search completed", "query": "python", "results": 1}
+{"asctime": "2026-06-15 23:54:05,394", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "ai.txt"}
+{"asctime": "2026-06-15 23:54:05,394", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "ai.txt", "chunks": 1}
+{"asctime": "2026-06-15 23:54:05,397", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "microservices.txt"}
+{"asctime": "2026-06-15 23:54:05,397", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "microservices.txt", "chunks": 1}
+{"asctime": "2026-06-15 23:54:05,398", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "python.txt"}
+{"asctime": "2026-06-15 23:54:05,399", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "python.txt", "chunks": 1}
+{"asctime": "2026-06-15 23:54:05,400", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed"}
+{"asctime": "2026-06-16 00:01:40,972", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "ai.txt"}
+{"asctime": "2026-06-16 00:01:40,972", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "ai.txt", "chunks": 1}
+{"asctime": "2026-06-16 00:01:40,973", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "microservices.txt"}
+{"asctime": "2026-06-16 00:01:40,974", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "microservices.txt", "chunks": 1}
+{"asctime": "2026-06-16 00:01:40,974", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "python.txt"}
+{"asctime": "2026-06-16 00:01:40,975", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "python.txt", "chunks": 1}
+{"asctime": "2026-06-16 00:01:40,976", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed"}
+{"asctime": "2026-06-16 00:04:05,761", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Clearing existing repository data"}
+{"asctime": "2026-06-16 00:04:05,762", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Starting document processing for 3 files"}
+{"asctime": "2026-06-16 00:04:05,762", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\ai.txt"}
+{"asctime": "2026-06-16 00:04:05,763", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "ai.txt"}
+{"asctime": "2026-06-16 00:04:05,765", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "ai.txt", "chunks": 1}
+{"asctime": "2026-06-16 00:04:05,765", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\ai.txt"}
+{"asctime": "2026-06-16 00:04:05,766", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:04:05,766", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "microservices.txt"}
+{"asctime": "2026-06-16 00:04:05,767", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "microservices.txt", "chunks": 1}
+{"asctime": "2026-06-16 00:04:05,767", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:04:05,768", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\python.txt"}
+{"asctime": "2026-06-16 00:04:05,769", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "python.txt"}
+{"asctime": "2026-06-16 00:04:05,769", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "python.txt", "chunks": 1}
+{"asctime": "2026-06-16 00:04:05,770", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\python.txt"}
+{"asctime": "2026-06-16 00:04:05,770", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed: 3/3 files processed, 3 total chunks stored"}
+{"asctime": "2026-06-16 00:05:15,541", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Clearing existing repository data"}
+{"asctime": "2026-06-16 00:05:15,541", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Starting document processing for 3 files"}
+{"asctime": "2026-06-16 00:05:15,542", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\ai.txt"}
+{"asctime": "2026-06-16 00:05:15,543", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "ai.txt"}
+{"asctime": "2026-06-16 00:05:15,543", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "ai.txt", "total_words": 17, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:05:15,544", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "ai.txt", "chunks": 1, "avg_words_per_chunk": 17.0}
+{"asctime": "2026-06-16 00:05:15,546", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\ai.txt"}
+{"asctime": "2026-06-16 00:05:15,548", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:05:15,549", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "microservices.txt"}
+{"asctime": "2026-06-16 00:05:15,549", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "microservices.txt", "total_words": 13, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:05:15,550", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "microservices.txt", "chunks": 1, "avg_words_per_chunk": 13.0}
+{"asctime": "2026-06-16 00:05:15,550", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:05:15,551", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\python.txt"}
+{"asctime": "2026-06-16 00:05:15,552", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "python.txt"}
+{"asctime": "2026-06-16 00:05:15,552", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "python.txt", "total_words": 21, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:05:15,554", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "python.txt", "chunks": 1, "avg_words_per_chunk": 21.0}
+{"asctime": "2026-06-16 00:05:15,555", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\python.txt"}
+{"asctime": "2026-06-16 00:05:15,556", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed: 3/3 files processed, 3 total chunks stored"}
+{"asctime": "2026-06-16 00:06:21,826", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Clearing existing repository data"}
+{"asctime": "2026-06-16 00:06:21,827", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Starting document processing for 3 files"}
+{"asctime": "2026-06-16 00:06:21,827", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\ai.txt"}
+{"asctime": "2026-06-16 00:06:21,829", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "ai.txt"}
+{"asctime": "2026-06-16 00:06:21,829", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "ai.txt", "total_words": 17, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:06:21,830", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "ai.txt", "chunks": 1, "avg_words_per_chunk": 17.0}
+{"asctime": "2026-06-16 00:06:21,831", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\ai.txt"}
+{"asctime": "2026-06-16 00:06:21,832", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:06:21,833", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "microservices.txt"}
+{"asctime": "2026-06-16 00:06:21,834", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "microservices.txt", "total_words": 13, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:06:21,835", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "microservices.txt", "chunks": 1, "avg_words_per_chunk": 13.0}
+{"asctime": "2026-06-16 00:06:21,836", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:06:21,837", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\python.txt"}
+{"asctime": "2026-06-16 00:06:21,837", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "python.txt"}
+{"asctime": "2026-06-16 00:06:21,838", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "python.txt", "total_words": 21, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:06:21,838", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "python.txt", "chunks": 1, "avg_words_per_chunk": 21.0}
+{"asctime": "2026-06-16 00:06:21,839", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\python.txt"}
+{"asctime": "2026-06-16 00:06:21,839", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed: 3/3 files processed, 3 total chunks stored"}
+{"asctime": "2026-06-16 00:08:34,547", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Clearing existing repository data"}
+{"asctime": "2026-06-16 00:08:34,548", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Starting document processing for 3 files"}
+{"asctime": "2026-06-16 00:08:34,548", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\ai.txt"}
+{"asctime": "2026-06-16 00:08:34,549", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "ai.txt"}
+{"asctime": "2026-06-16 00:08:34,549", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "ai.txt", "total_words": 17, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:08:34,550", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "ai.txt", "chunks": 1, "avg_words_per_chunk": 17.0}
+{"asctime": "2026-06-16 00:08:34,550", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\ai.txt"}
+{"asctime": "2026-06-16 00:08:34,553", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:08:34,555", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "microservices.txt"}
+{"asctime": "2026-06-16 00:08:34,555", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "microservices.txt", "total_words": 13, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:08:34,556", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "microservices.txt", "chunks": 1, "avg_words_per_chunk": 13.0}
+{"asctime": "2026-06-16 00:08:34,557", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:08:34,557", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\python.txt"}
+{"asctime": "2026-06-16 00:08:34,560", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "python.txt"}
+{"asctime": "2026-06-16 00:08:34,561", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "python.txt", "total_words": 21, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:08:34,562", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "python.txt", "chunks": 1, "avg_words_per_chunk": 21.0}
+{"asctime": "2026-06-16 00:08:34,562", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\python.txt"}
+{"asctime": "2026-06-16 00:08:34,563", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed: 3/3 files processed, 3 total chunks stored"}
+{"asctime": "2026-06-16 00:10:17,345", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Clearing existing repository data"}
+{"asctime": "2026-06-16 00:10:17,345", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Starting document processing for 3 files"}
+{"asctime": "2026-06-16 00:10:17,346", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\ai.txt"}
+{"asctime": "2026-06-16 00:10:17,347", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "ai.txt"}
+{"asctime": "2026-06-16 00:10:17,347", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "ai.txt", "total_words": 17, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:10:17,349", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "ai.txt", "chunks": 1, "avg_words_per_chunk": 17.0}
+{"asctime": "2026-06-16 00:10:17,350", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\ai.txt"}
+{"asctime": "2026-06-16 00:10:17,350", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:10:17,351", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "microservices.txt"}
+{"asctime": "2026-06-16 00:10:17,352", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "microservices.txt", "total_words": 13, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:10:17,352", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "microservices.txt", "chunks": 1, "avg_words_per_chunk": 13.0}
+{"asctime": "2026-06-16 00:10:17,353", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:10:17,353", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\python.txt"}
+{"asctime": "2026-06-16 00:10:17,354", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded", "file": "python.txt"}
+{"asctime": "2026-06-16 00:10:17,354", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "python.txt", "total_words": 21, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:10:17,355", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "python.txt", "chunks": 1, "avg_words_per_chunk": 21.0}
+{"asctime": "2026-06-16 00:10:17,355", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\python.txt"}
+{"asctime": "2026-06-16 00:10:17,355", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed: 3/3 files processed, 3 total chunks stored"}
+{"asctime": "2026-06-16 00:12:46,148", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Clearing existing repository data"}
+{"asctime": "2026-06-16 00:12:46,148", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Starting document processing for 3 files"}
+{"asctime": "2026-06-16 00:12:46,149", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\ai.txt"}
+{"asctime": "2026-06-16 00:12:46,149", "levelname": "INFO", "name": "src.services.document_loader", "message": "Loading document from: documents\\ai.txt"}
+{"asctime": "2026-06-16 00:12:46,150", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded successfully", "file": "ai.txt", "size_bytes": 131, "content_length": 127, "encoding": "utf-8"}
+{"asctime": "2026-06-16 00:12:46,151", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "ai.txt", "total_words": 17, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:12:46,151", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "ai.txt", "chunks": 1, "avg_words_per_chunk": 17.0}
+{"asctime": "2026-06-16 00:12:46,152", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\ai.txt"}
+{"asctime": "2026-06-16 00:12:46,152", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:12:46,153", "levelname": "INFO", "name": "src.services.document_loader", "message": "Loading document from: documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:12:46,154", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded successfully", "file": "microservices.txt", "size_bytes": 128, "content_length": 124, "encoding": "utf-8"}
+{"asctime": "2026-06-16 00:12:46,154", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "microservices.txt", "total_words": 13, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:12:46,155", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "microservices.txt", "chunks": 1, "avg_words_per_chunk": 13.0}
+{"asctime": "2026-06-16 00:12:46,155", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:12:46,157", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\python.txt"}
+{"asctime": "2026-06-16 00:12:46,158", "levelname": "INFO", "name": "src.services.document_loader", "message": "Loading document from: documents\\python.txt"}
+{"asctime": "2026-06-16 00:12:46,159", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded successfully", "file": "python.txt", "size_bytes": 136, "content_length": 132, "encoding": "utf-8"}
+{"asctime": "2026-06-16 00:12:46,160", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "python.txt", "total_words": 21, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:12:46,160", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "python.txt", "chunks": 1, "avg_words_per_chunk": 21.0}
+{"asctime": "2026-06-16 00:12:46,160", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\python.txt"}
+{"asctime": "2026-06-16 00:12:46,162", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed: 3/3 files processed, 3 total chunks stored"}
+{"asctime": "2026-06-16 00:14:35,349", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Clearing existing repository data"}
+{"asctime": "2026-06-16 00:14:35,349", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Starting document processing for 3 files"}
+{"asctime": "2026-06-16 00:14:35,350", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\ai.txt"}
+{"asctime": "2026-06-16 00:14:35,350", "levelname": "INFO", "name": "src.services.document_loader", "message": "Loading document from: documents\\ai.txt"}
+{"asctime": "2026-06-16 00:14:35,351", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded successfully", "file": "ai.txt", "size_bytes": 131, "content_length": 127, "encoding": "utf-8"}
+{"asctime": "2026-06-16 00:14:35,352", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "ai.txt", "total_words": 17, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:14:35,353", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "ai.txt", "chunks": 1, "avg_words_per_chunk": 17.0}
+{"asctime": "2026-06-16 00:14:35,353", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\ai.txt"}
+{"asctime": "2026-06-16 00:14:35,354", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:14:35,354", "levelname": "INFO", "name": "src.services.document_loader", "message": "Loading document from: documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:14:35,355", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded successfully", "file": "microservices.txt", "size_bytes": 128, "content_length": 124, "encoding": "utf-8"}
+{"asctime": "2026-06-16 00:14:35,357", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "microservices.txt", "total_words": 13, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:14:35,357", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "microservices.txt", "chunks": 1, "avg_words_per_chunk": 13.0}
+{"asctime": "2026-06-16 00:14:35,357", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:14:35,357", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\python.txt"}
+{"asctime": "2026-06-16 00:14:35,358", "levelname": "INFO", "name": "src.services.document_loader", "message": "Loading document from: documents\\python.txt"}
+{"asctime": "2026-06-16 00:14:35,358", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded successfully", "file": "python.txt", "size_bytes": 136, "content_length": 132, "encoding": "utf-8"}
+{"asctime": "2026-06-16 00:14:35,359", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "python.txt", "total_words": 21, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:14:35,359", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "python.txt", "chunks": 1, "avg_words_per_chunk": 21.0}
+{"asctime": "2026-06-16 00:14:35,360", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\python.txt"}
+{"asctime": "2026-06-16 00:14:35,360", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed: 3/3 files processed, 3 total chunks stored"}
+{"asctime": "2026-06-16 00:15:40,401", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Clearing existing repository data"}
+{"asctime": "2026-06-16 00:15:40,402", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Starting document processing for 3 files"}
+{"asctime": "2026-06-16 00:15:40,403", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\ai.txt"}
+{"asctime": "2026-06-16 00:15:40,403", "levelname": "INFO", "name": "src.services.document_loader", "message": "Loading document from: documents\\ai.txt"}
+{"asctime": "2026-06-16 00:15:40,404", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded successfully", "file": "ai.txt", "size_bytes": 131, "content_length": 127, "encoding": "utf-8"}
+{"asctime": "2026-06-16 00:15:40,405", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "ai.txt", "total_words": 17, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:15:40,405", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "ai.txt", "chunks": 1, "avg_words_per_chunk": 17.0}
+{"asctime": "2026-06-16 00:15:40,406", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\ai.txt"}
+{"asctime": "2026-06-16 00:15:40,406", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:15:40,407", "levelname": "INFO", "name": "src.services.document_loader", "message": "Loading document from: documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:15:40,407", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded successfully", "file": "microservices.txt", "size_bytes": 128, "content_length": 124, "encoding": "utf-8"}
+{"asctime": "2026-06-16 00:15:40,408", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "microservices.txt", "total_words": 13, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:15:40,409", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "microservices.txt", "chunks": 1, "avg_words_per_chunk": 13.0}
+{"asctime": "2026-06-16 00:15:40,409", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:15:40,410", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\python.txt"}
+{"asctime": "2026-06-16 00:15:40,410", "levelname": "INFO", "name": "src.services.document_loader", "message": "Loading document from: documents\\python.txt"}
+{"asctime": "2026-06-16 00:15:40,411", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded successfully", "file": "python.txt", "size_bytes": 136, "content_length": 132, "encoding": "utf-8"}
+{"asctime": "2026-06-16 00:15:40,412", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "python.txt", "total_words": 21, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:15:40,412", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "python.txt", "chunks": 1, "avg_words_per_chunk": 21.0}
+{"asctime": "2026-06-16 00:15:40,413", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\python.txt"}
+{"asctime": "2026-06-16 00:15:40,413", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed: 3/3 files processed, 3 total chunks stored"}
+{"asctime": "2026-06-16 00:18:32,817", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Clearing existing repository data"}
+{"asctime": "2026-06-16 00:18:32,817", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Starting document processing for 3 files"}
+{"asctime": "2026-06-16 00:18:32,818", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\ai.txt"}
+{"asctime": "2026-06-16 00:18:32,818", "levelname": "INFO", "name": "src.services.document_loader", "message": "Loading document from: documents\\ai.txt"}
+{"asctime": "2026-06-16 00:18:32,819", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded successfully", "file": "ai.txt", "size_bytes": 131, "content_length": 127, "encoding": "utf-8"}
+{"asctime": "2026-06-16 00:18:32,820", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "ai.txt", "total_words": 17, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:18:32,820", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "ai.txt", "chunks": 1, "avg_words_per_chunk": 17.0}
+{"asctime": "2026-06-16 00:18:32,821", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\ai.txt"}
+{"asctime": "2026-06-16 00:18:32,821", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:18:32,822", "levelname": "INFO", "name": "src.services.document_loader", "message": "Loading document from: documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:18:32,823", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded successfully", "file": "microservices.txt", "size_bytes": 128, "content_length": 124, "encoding": "utf-8"}
+{"asctime": "2026-06-16 00:18:32,823", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "microservices.txt", "total_words": 13, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:18:32,825", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "microservices.txt", "chunks": 1, "avg_words_per_chunk": 13.0}
+{"asctime": "2026-06-16 00:18:32,825", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:18:32,826", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\python.txt"}
+{"asctime": "2026-06-16 00:18:32,826", "levelname": "INFO", "name": "src.services.document_loader", "message": "Loading document from: documents\\python.txt"}
+{"asctime": "2026-06-16 00:18:32,827", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded successfully", "file": "python.txt", "size_bytes": 136, "content_length": 132, "encoding": "utf-8"}
+{"asctime": "2026-06-16 00:18:32,829", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "python.txt", "total_words": 21, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:18:32,829", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "python.txt", "chunks": 1, "avg_words_per_chunk": 21.0}
+{"asctime": "2026-06-16 00:18:32,830", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\python.txt"}
+{"asctime": "2026-06-16 00:18:32,831", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed: 3/3 files processed, 3 total chunks stored"}
+{"asctime": "2026-06-16 00:19:52,411", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Clearing existing repository data"}
+{"asctime": "2026-06-16 00:19:52,411", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Starting document processing for 3 files"}
+{"asctime": "2026-06-16 00:19:52,412", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\ai.txt"}
+{"asctime": "2026-06-16 00:19:52,412", "levelname": "INFO", "name": "src.services.document_loader", "message": "Loading document from: documents\\ai.txt"}
+{"asctime": "2026-06-16 00:19:52,413", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded successfully", "file": "ai.txt", "size_bytes": 131, "content_length": 127, "encoding": "utf-8"}
+{"asctime": "2026-06-16 00:19:52,414", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "ai.txt", "total_words": 17, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:19:52,418", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "ai.txt", "chunks": 1, "avg_words_per_chunk": 17.0}
+{"asctime": "2026-06-16 00:19:52,420", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\ai.txt"}
+{"asctime": "2026-06-16 00:19:52,421", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:19:52,422", "levelname": "INFO", "name": "src.services.document_loader", "message": "Loading document from: documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:19:52,423", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded successfully", "file": "microservices.txt", "size_bytes": 128, "content_length": 124, "encoding": "utf-8"}
+{"asctime": "2026-06-16 00:19:52,424", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "microservices.txt", "total_words": 13, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:19:52,424", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "microservices.txt", "chunks": 1, "avg_words_per_chunk": 13.0}
+{"asctime": "2026-06-16 00:19:52,426", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:19:52,427", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\python.txt"}
+{"asctime": "2026-06-16 00:19:52,428", "levelname": "INFO", "name": "src.services.document_loader", "message": "Loading document from: documents\\python.txt"}
+{"asctime": "2026-06-16 00:19:52,428", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded successfully", "file": "python.txt", "size_bytes": 136, "content_length": 132, "encoding": "utf-8"}
+{"asctime": "2026-06-16 00:19:52,429", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "python.txt", "total_words": 21, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:19:52,429", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "python.txt", "chunks": 1, "avg_words_per_chunk": 21.0}
+{"asctime": "2026-06-16 00:19:52,431", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\python.txt"}
+{"asctime": "2026-06-16 00:19:52,434", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed: 3/3 files processed, 3 total chunks stored"}
+{"asctime": "2026-06-16 00:23:19,431", "levelname": "INFO", "name": "src.dependency.container", "message": "PipelineService initialized successfully"}
+{"asctime": "2026-06-16 00:23:19,432", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Clearing existing repository data"}
+{"asctime": "2026-06-16 00:23:19,432", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Starting document processing for 3 files"}
+{"asctime": "2026-06-16 00:23:19,433", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\ai.txt"}
+{"asctime": "2026-06-16 00:23:19,433", "levelname": "INFO", "name": "src.services.document_loader", "message": "Loading document from: documents\\ai.txt"}
+{"asctime": "2026-06-16 00:23:19,435", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded successfully", "file": "ai.txt", "size_bytes": 131, "content_length": 127, "encoding": "utf-8"}
+{"asctime": "2026-06-16 00:23:19,436", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "ai.txt", "total_words": 17, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:23:19,436", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "ai.txt", "chunks": 1, "avg_words_per_chunk": 17.0}
+{"asctime": "2026-06-16 00:23:19,437", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\ai.txt"}
+{"asctime": "2026-06-16 00:23:19,437", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:23:19,438", "levelname": "INFO", "name": "src.services.document_loader", "message": "Loading document from: documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:23:19,438", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded successfully", "file": "microservices.txt", "size_bytes": 128, "content_length": 124, "encoding": "utf-8"}
+{"asctime": "2026-06-16 00:23:19,439", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "microservices.txt", "total_words": 13, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:23:19,439", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "microservices.txt", "chunks": 1, "avg_words_per_chunk": 13.0}
+{"asctime": "2026-06-16 00:23:19,440", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:23:19,440", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\python.txt"}
+{"asctime": "2026-06-16 00:23:19,440", "levelname": "INFO", "name": "src.services.document_loader", "message": "Loading document from: documents\\python.txt"}
+{"asctime": "2026-06-16 00:23:19,441", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded successfully", "file": "python.txt", "size_bytes": 136, "content_length": 132, "encoding": "utf-8"}
+{"asctime": "2026-06-16 00:23:19,442", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "python.txt", "total_words": 21, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:23:19,442", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "python.txt", "chunks": 1, "avg_words_per_chunk": 21.0}
+{"asctime": "2026-06-16 00:23:19,442", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\python.txt"}
+{"asctime": "2026-06-16 00:23:19,443", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed: 3/3 files processed, 3 total chunks stored"}
+{"asctime": "2026-06-16 00:23:20,516", "levelname": "INFO", "name": "src.dependency.container", "message": "PipelineService initialized successfully"}
+{"asctime": "2026-06-16 00:23:20,517", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Clearing existing repository data"}
+{"asctime": "2026-06-16 00:23:20,518", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Starting document processing for 3 files"}
+{"asctime": "2026-06-16 00:23:20,518", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\ai.txt"}
+{"asctime": "2026-06-16 00:23:20,520", "levelname": "INFO", "name": "src.services.document_loader", "message": "Loading document from: documents\\ai.txt"}
+{"asctime": "2026-06-16 00:23:20,520", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded successfully", "file": "ai.txt", "size_bytes": 131, "content_length": 127, "encoding": "utf-8"}
+{"asctime": "2026-06-16 00:23:20,521", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "ai.txt", "total_words": 17, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:23:20,522", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "ai.txt", "chunks": 1, "avg_words_per_chunk": 17.0}
+{"asctime": "2026-06-16 00:23:20,522", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\ai.txt"}
+{"asctime": "2026-06-16 00:23:20,523", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:23:20,523", "levelname": "INFO", "name": "src.services.document_loader", "message": "Loading document from: documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:23:20,524", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded successfully", "file": "microservices.txt", "size_bytes": 128, "content_length": 124, "encoding": "utf-8"}
+{"asctime": "2026-06-16 00:23:20,525", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "microservices.txt", "total_words": 13, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:23:20,525", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "microservices.txt", "chunks": 1, "avg_words_per_chunk": 13.0}
+{"asctime": "2026-06-16 00:23:20,526", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:23:20,527", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\python.txt"}
+{"asctime": "2026-06-16 00:23:20,528", "levelname": "INFO", "name": "src.services.document_loader", "message": "Loading document from: documents\\python.txt"}
+{"asctime": "2026-06-16 00:23:20,529", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded successfully", "file": "python.txt", "size_bytes": 136, "content_length": 132, "encoding": "utf-8"}
+{"asctime": "2026-06-16 00:23:20,531", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "python.txt", "total_words": 21, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:23:20,531", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "python.txt", "chunks": 1, "avg_words_per_chunk": 21.0}
+{"asctime": "2026-06-16 00:23:20,531", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\python.txt"}
+{"asctime": "2026-06-16 00:23:20,532", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed: 3/3 files processed, 3 total chunks stored"}
+{"asctime": "2026-06-16 00:25:01,847", "levelname": "INFO", "name": "src.dependency.container", "message": "PipelineService initialized successfully"}
+{"asctime": "2026-06-16 00:25:01,848", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Clearing existing repository data"}
+{"asctime": "2026-06-16 00:25:01,848", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Starting document processing for 3 files"}
+{"asctime": "2026-06-16 00:25:01,849", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\ai.txt"}
+{"asctime": "2026-06-16 00:25:01,851", "levelname": "INFO", "name": "src.services.document_loader", "message": "Loading document from: documents\\ai.txt"}
+{"asctime": "2026-06-16 00:25:01,852", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded successfully", "file": "ai.txt", "size_bytes": 131, "content_length": 127, "encoding": "utf-8"}
+{"asctime": "2026-06-16 00:25:01,855", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "ai.txt", "total_words": 17, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:25:01,855", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "ai.txt", "chunks": 1, "avg_words_per_chunk": 17.0}
+{"asctime": "2026-06-16 00:25:01,856", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\ai.txt"}
+{"asctime": "2026-06-16 00:25:01,856", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:25:01,856", "levelname": "INFO", "name": "src.services.document_loader", "message": "Loading document from: documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:25:01,857", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded successfully", "file": "microservices.txt", "size_bytes": 128, "content_length": 124, "encoding": "utf-8"}
+{"asctime": "2026-06-16 00:25:01,858", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "microservices.txt", "total_words": 13, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:25:01,859", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "microservices.txt", "chunks": 1, "avg_words_per_chunk": 13.0}
+{"asctime": "2026-06-16 00:25:01,859", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:25:01,860", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\python.txt"}
+{"asctime": "2026-06-16 00:25:01,860", "levelname": "INFO", "name": "src.services.document_loader", "message": "Loading document from: documents\\python.txt"}
+{"asctime": "2026-06-16 00:25:01,861", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded successfully", "file": "python.txt", "size_bytes": 136, "content_length": 132, "encoding": "utf-8"}
+{"asctime": "2026-06-16 00:25:01,862", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "python.txt", "total_words": 21, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:25:01,863", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "python.txt", "chunks": 1, "avg_words_per_chunk": 21.0}
+{"asctime": "2026-06-16 00:25:01,863", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\python.txt"}
+{"asctime": "2026-06-16 00:25:01,864", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed: 3/3 files processed, 3 total chunks stored"}
+{"asctime": "2026-06-16 00:58:48,894", "levelname": "INFO", "name": "src.dependency.container", "message": "PipelineService initialized successfully"}
+{"asctime": "2026-06-16 00:58:48,895", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Clearing existing repository data"}
+{"asctime": "2026-06-16 00:58:48,896", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Starting document processing for 3 files"}
+{"asctime": "2026-06-16 00:58:48,896", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\ai.txt"}
+{"asctime": "2026-06-16 00:58:48,897", "levelname": "INFO", "name": "src.services.document_loader", "message": "Loading document from: documents\\ai.txt"}
+{"asctime": "2026-06-16 00:58:48,898", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded successfully", "file": "ai.txt", "size_bytes": 131, "content_length": 127, "encoding": "utf-8"}
+{"asctime": "2026-06-16 00:58:48,899", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "ai.txt", "total_words": 17, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:58:48,899", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "ai.txt", "chunks": 1, "avg_words_per_chunk": 17.0}
+{"asctime": "2026-06-16 00:58:48,901", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\ai.txt"}
+{"asctime": "2026-06-16 00:58:48,901", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:58:48,902", "levelname": "INFO", "name": "src.services.document_loader", "message": "Loading document from: documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:58:48,903", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded successfully", "file": "microservices.txt", "size_bytes": 128, "content_length": 124, "encoding": "utf-8"}
+{"asctime": "2026-06-16 00:58:48,904", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "microservices.txt", "total_words": 13, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:58:48,904", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "microservices.txt", "chunks": 1, "avg_words_per_chunk": 13.0}
+{"asctime": "2026-06-16 00:58:48,904", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\microservices.txt"}
+{"asctime": "2026-06-16 00:58:48,905", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Processing file: documents\\python.txt"}
+{"asctime": "2026-06-16 00:58:48,905", "levelname": "INFO", "name": "src.services.document_loader", "message": "Loading document from: documents\\python.txt"}
+{"asctime": "2026-06-16 00:58:48,906", "levelname": "INFO", "name": "src.services.document_loader", "message": "Document loaded successfully", "file": "python.txt", "size_bytes": 136, "content_length": 132, "encoding": "utf-8"}
+{"asctime": "2026-06-16 00:58:48,907", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Starting chunking", "document": "python.txt", "total_words": 21, "chunk_size": 50, "overlap": 0}
+{"asctime": "2026-06-16 00:58:48,907", "levelname": "INFO", "name": "src.services.text_chunker", "message": "Chunking completed", "document": "python.txt", "chunks": 1, "avg_words_per_chunk": 21.0}
+{"asctime": "2026-06-16 00:58:48,908", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Created 1 chunks from documents\\python.txt"}
+{"asctime": "2026-06-16 00:58:48,908", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Document processing completed: 3/3 files processed, 3 total chunks stored"}
+{"asctime": "2026-06-16 00:59:15,392", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Starting search for query: 'python'"}
+{"asctime": "2026-06-16 00:59:15,393", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Retrieved 3 chunks from repository"}
+{"asctime": "2026-06-16 00:59:15,393", "levelname": "INFO", "name": "src.services.keyword_retriever", "message": "Starting retrieval", "query": "python", "total_chunks": 3, "case_sensitive": false, "min_score": 0.0}
+{"asctime": "2026-06-16 00:59:15,394", "levelname": "INFO", "name": "src.services.keyword_retriever", "message": "Query normalized to 1 tokens (1 unique)", "query_tokens": ["python"]}
+{"asctime": "2026-06-16 00:59:15,395", "levelname": "INFO", "name": "src.services.keyword_retriever", "message": "Retrieval completed", "query": "python", "total_results": 1, "skipped_chunks": 0, "top_score": 1.0}
+{"asctime": "2026-06-16 00:59:15,396", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Retrieval returned 1 results"}
+{"asctime": "2026-06-16 00:59:15,396", "levelname": "INFO", "name": "src.services.pipeline_service", "message": "Search completed: 1 results for query 'python'"}
